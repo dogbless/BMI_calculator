@@ -1,0 +1,7 @@
+C:\Users\jesse\Downloads\c# fundamentals\SillyPractice\bin\Debug\SillyPractice.exe.config
+C:\Users\jesse\Downloads\c# fundamentals\SillyPractice\bin\Debug\SillyPractice.exe
+C:\Users\jesse\Downloads\c# fundamentals\SillyPractice\bin\Debug\SillyPractice.pdb
+C:\Users\jesse\Downloads\c# fundamentals\SillyPractice\obj\Debug\SillyPractice.csproj.AssemblyReference.cache
+C:\Users\jesse\Downloads\c# fundamentals\SillyPractice\obj\Debug\SillyPractice.csproj.CoreCompileInputs.cache
+C:\Users\jesse\Downloads\c# fundamentals\SillyPractice\obj\Debug\SillyPractice.exe
+C:\Users\jesse\Downloads\c# fundamentals\SillyPractice\obj\Debug\SillyPractice.pdb
